@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EbW1bUTizTtiFxnUBeGwKaUw6GCqClDsGsEuONfnB3R6hyaEtEUElnm/Tlt2IEdryc6CqrileC2DiYHqRKocIw==",
+  "dgSpecHash": "syqoHQ8DEVi3exy0krNIo+SRz/sXU52xwRhqgyIop9WuBN6VbbGidBS72ONXavP4CM3ygDFzj0Ag2opuq6vKRw==",
   "success": true,
   "projectFilePath": "D:\\manon\\Shutdown-r_Optimisation_Transaction\\Optimisation_Shutdown\\Optimisation_Shutdown.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\manon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

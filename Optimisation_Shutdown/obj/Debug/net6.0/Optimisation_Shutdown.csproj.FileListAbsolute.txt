@@ -13,3 +13,5 @@ D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net
 D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.pdb
 D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.genruntimeconfig.cache
 D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\ref\Optimisation_Shutdown.dll
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.csproj.CopyComplete
