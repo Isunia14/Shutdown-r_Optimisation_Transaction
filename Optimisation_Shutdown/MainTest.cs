@@ -18,7 +18,7 @@ namespace Optimisation_Shutdown
 
             string JSONresult = JsonConvert.SerializeObject(transaction);
 
-            string path = @"..\transaction.json";
+            string path = @"..\..\..\transaction.json";
 
             using (var tw = new StreamWriter(path, true))
             {
