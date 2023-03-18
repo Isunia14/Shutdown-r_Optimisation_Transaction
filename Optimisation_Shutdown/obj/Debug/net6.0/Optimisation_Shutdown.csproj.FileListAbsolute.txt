@@ -1,0 +1,15 @@
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\bin\Debug\net6.0\Optimisation_Shutdown.exe
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\bin\Debug\net6.0\Optimisation_Shutdown.deps.json
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\bin\Debug\net6.0\Optimisation_Shutdown.runtimeconfig.json
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\bin\Debug\net6.0\Optimisation_Shutdown.dll
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\bin\Debug\net6.0\Optimisation_Shutdown.pdb
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.csproj.AssemblyReference.cache
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.GeneratedMSBuildEditorConfig.editorconfig
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.AssemblyInfoInputs.cache
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.AssemblyInfo.cs
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.csproj.CoreCompileInputs.cache
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.dll
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\refint\Optimisation_Shutdown.dll
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.pdb
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\Optimisation_Shutdown.genruntimeconfig.cache
+D:\manon\Shutdown-r_Optimisation_Transaction\Optimisation_Shutdown\obj\Debug\net6.0\ref\Optimisation_Shutdown.dll
