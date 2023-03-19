@@ -36,6 +36,11 @@ namespace Optimisation_Shutdown
 
             string path = @"..\..\..\..\transaction.json";
 
+            if(File.Exists(path))
+            {
+                File.Delete(path);
+            }
+
             foreach (Transaction transaction in transactionEffectuees)
             {
                 string JSONresult = JsonConvert.SerializeObject(transaction);

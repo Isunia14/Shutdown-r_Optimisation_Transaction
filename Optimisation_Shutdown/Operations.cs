@@ -63,8 +63,12 @@ namespace Optimisation_Shutdown
 
         private string getSymbolLePlusRentable(string date) {
             //Fonction d'utilisation de l'API Yahoo
+            //On arrive pas à installer l'API et comme on est en C#, y'a rien qui marche :c
 
-            return tickerList[0];
+            //En attendant, on randomize => La stratégie est : la chance
+            Random random = new Random();
+            int pos = random.Next(0, tickerList.Count());
+            return tickerList[pos];
         }
 
         public string changeDate(string date)
