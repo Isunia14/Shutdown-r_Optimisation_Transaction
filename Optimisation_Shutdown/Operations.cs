@@ -12,7 +12,13 @@ namespace Optimisation_Shutdown
         static public string date_fin;
         static List<string> tickerList;
 
-        static public Transaction transactionDuJour(string date, Transaction derniereTransac)
+        public Operations(List<string> symboles,string debut, string fin) {
+            date_debut = debut;
+            date_fin = fin;
+            tickerList = symboles;
+        }
+
+        public Transaction transactionDuJour(string date, Transaction derniereTransac)
         {
             Transaction transaction = new Transaction();
             transaction.date = date;
@@ -55,10 +61,19 @@ namespace Optimisation_Shutdown
             return transaction;
         }
 
-        static private string getSymbolLePlusRentable(string date) {
+        private string getSymbolLePlusRentable(string date) {
             //Fonction d'utilisation de l'API Yahoo
 
             return tickerList[0];
+        }
+
+        public string changeDate(string date)
+        {
+            DateTime newDate =DateTime.Parse(date).AddDays(1);
+            string formatAChanger = newDate.ToString("d");
+            string[] separation = formatAChanger.Split("/");
+
+            return (separation[2] + "-" + separation[1] + "-" + separation[0]);
         }
 
     }
