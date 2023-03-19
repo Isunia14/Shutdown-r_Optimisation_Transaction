@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 
 namespace Optimisation_Shutdown
 {
-    internal class MainTest
+    internal class MainFinal
     {
         static public void Main(List<string> symboles,string debut, string fin)
         {
@@ -34,7 +34,7 @@ namespace Optimisation_Shutdown
 
             //Enfin, on convertit tout ça dans un fichier, trouvable à la racine du projet
 
-            string path = @"..\..\..\..\test.json";
+            string path = @"..\..\..\..\final.json";
 
             if(File.Exists(path))
             {
